@@ -12,7 +12,7 @@ exit
 wget -qO- https://github.com/LaureCremieux/setup/raw/master/create_user.sh | sh -s <your_username>
 su <your_username>
 cd
-wget -qO- https://github.com/tibotiber/setup/raw/master/setup.sh | sh -s <your_username>
+wget -qO- https://github.com/LaureCremieux/setup/raw/master/setup.sh | sh -s <your_username>
 zsh
 wget -qO- https://github.com/LaureCremieux/setup/raw/master/configure_zsh.sh | zsh
 # you can now exit and reconnect as <your_username> with the same key
